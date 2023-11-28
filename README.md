@@ -1,29 +1,21 @@
 # Ananth Padakannaya
-** ananthpadakannaya93@gmail.com **
-
-
 ### Senior Data Engineer and consultant
 As an accomplished Data Engineer with eight years of extensive experience, I have consistently demonstrated my expertise in architecting, developing, and maintaining data solutions that drive business success. As a Solutions Lead, I possess a proven track record of spearheading high-impact projects, shaping data strategies, and leading cross- functional teams. My proficiency spans various aspects of data engineering, from designing robust ETL pipelines, data modelling, data analytics, visualization to optimizing data infrastructure for enhanced performance and scalability. I am highly skilled in leveraging cutting-edge technologies to deliver innovative solutions that empower organizations to harness the full potential of their data. My comprehensive knowledge and experience make me well-equipped to take on complex challenges in the data engineering space and drive data- driven decision-making within organizations.
 
-**SKILLS**
+#### **SKILLS**
 
 - **Programming**: Python, Java, R, Groovy, C, C++, Scripting (Unix), SQL, JS, html. **Cloud:** AWS, Azure, GCP.
 - **Big Data Skills**: Apache Spark, Big Query, Azure Synapse, Azure IoT Hub, Azure Data Factory, AWS Glue, Snowflake, Airflow, IO Blend, Apache Kafka, WebSphere.
 - **Data Base**: PostgreSQL, MongoDB, MSSQL, Oracle DB, Hadoop, Azure Data Lake Storage, Amazon S3 
 - **Machine Learning**: NLP, Deep Learning, Neural Networks, SVM, Recommendation Systems, RNN, CNN, Regression, Model Evaluation, Hyper parameter Tuning.
-
   **Libraries**: NumPy, Pandas, TensorFlow, PyTorch, PySpark, matplotlib, Seaborn, SciKitLearn, Keras. 
-
 - **Dev tools**: Git, Jira, Confluence, Bitbucket, SVN, Jenkins (CI/CD). 
 - **Methodologies**: Agile, Scrum, Software Design Life Cycle. 
 - **Data Visualization**: Power BI, Tableau, Seaborn. 
 - **Excellent Communication and Management Skills** 
 
-
-
 ### **WORK EXPERIENCE**
-### Solutions Lead
-#### One City Global
+### Solutions Lead @ One City Global
 *06/2021-Present	London, United Kingdom*                                 
 *OCG creates digital twins that empower customers to innovate business models, optimize processes, drive profitability and sustainability.*
 
@@ -39,9 +31,8 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 
 *Reference: jamie.muir@onecityglobal.com*
 
-### **Technical Analyst**
-#### Infosys Technologies Ltd
-*06/2015 - 02/2021                                Bangalore India/Kuala Lumpur, Malaysia*
+### **Technical Analyst** @ Infosys Technologies Ltd
+*06/2015 - 02/2021                                Bangalore/Kuala Lumpur*
 *Infosys Limited is an Indian multinational information technology company that provides business consulting and information technology services.*
 
 *Achievements/Tasks*
@@ -83,7 +74,3 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 - Power BI developer (LinkedIn)
 - Harvard Mentor Management Certificates 
 - AWS cloud Architect (Pending)
-
-
-
-
