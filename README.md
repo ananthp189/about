@@ -3,7 +3,7 @@
 ### Senior Data Engineer and consultant
 As an accomplished Data Engineer with eight years of extensive experience, I have consistently demonstrated my expertise in architecting, developing, and maintaining data solutions that drive business success. As a Solutions Lead, I possess a proven track record of spearheading high-impact projects, shaping data strategies, and leading cross- functional teams. My proficiency spans various aspects of data engineering, from designing robust ETL pipelines, data modelling, data analytics, visualization to optimizing data infrastructure for enhanced performance and scalability. I am highly skilled in leveraging cutting-edge technologies to deliver innovative solutions that empower organizations to harness the full potential of their data. My comprehensive knowledge and experience make me well-equipped to take on complex challenges in the data engineering space and drive data- driven decision-making within organizations.
 
-#### **SKILLS**
+### **SKILLS**
 
 - **Programming**: Python, Java, R, Groovy, C, C++, Scripting (Unix), SQL, JS, html. **Cloud:** AWS, Azure, GCP.
 - **Big Data Skills**: Apache Spark, Big Query, Azure Synapse, Azure IoT Hub, Azure Data Factory, AWS Glue, Snowflake, Airflow, IO Blend, Apache Kafka, WebSphere.
@@ -15,7 +15,7 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 - **Data Visualization**: Power BI, Tableau, Seaborn. 
 - **Excellent Communication and Management Skills** 
 
-### **WORK EXPERIENCE**
+### WORK EXPERIENCE
 ### Solutions Lead @ One City Global
 *06/2021-Present	London, United Kingdom*                                 
 *OCG creates digital twins that empower customers to innovate business models, optimize processes, drive profitability and sustainability.*
@@ -32,7 +32,7 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 
 *Reference: jamie.muir@onecityglobal.com*
 
-### **Technical Analyst** @ Infosys Technologies Ltd
+### Technical Analyst @ Infosys Technologies Ltd
 *06/2015 - 02/2021                                Bangalore/Kuala Lumpur*
 *Infosys Limited is an Indian multinational information technology company that provides business consulting and information technology services.*
 
@@ -51,16 +51,16 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 ` `*Reference: <sridhar.velagapudi@infosys.com>, thabitha.ethakota@infosys.com.* 
 
 
-## **EDUCATION**
+## EDUCATION
 ### **Masters Data Analytics**
 #### University of Glasgow
 *01/2021 - 01/2022	 Glasgow*
 
-### **Bachelor of Engineering (Electronics and Communications**
+### **Bachelor of Engineering (Electronics and Communications)**
 #### NMAMIT
 *08/2011 - 06/2015 	Mangalore*
 
-## **ACHIEVEMENTS**
+## ACHIEVEMENTS
 
 1. Successfully proposed and implemented a predictive maintenance system for Innovate UK which modelled the degradation of solar cell inverters with an accuracy of 85 percent.
 1. Lead the pilot project for migration of Experian SEA banking solutions to cloud on extremely tight timeline while ensuring zero downtime for the critical banking solutions of Experian. 
@@ -69,13 +69,9 @@ As an accomplished Data Engineer with eight years of extensive experience, I hav
 1. Contributed to the command and data handling team of the prestigious ISRO project (Student-Sattelite-2) while in my final year of Engineering.
 
 
-## **CERTIFICATIONS**
+## CERTIFICATIONS
 
 - Python Developer for Data analytics and science (Infosys)
 - Power BI developer (LinkedIn)
 - Harvard Mentor Management Certificates 
 - AWS cloud Architect (Pending)
-
-
-
-
